@@ -1,0 +1,12 @@
+.user-container{
+    border: 1px solid #262626;
+    border-radius: 0.2rem;
+    padding: 0.8rem 1rem;
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    color: #262626
+}
+
+.user-container:nth-child(last){
+    margin-bottom: 0;
+}
